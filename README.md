@@ -9,11 +9,9 @@ The basic idea is to convert the videos and classification labels in the dataset
 
 #### Software Architecture
 ![项目文件架构](https://foruda.gitee.com/images/1688969241116817172/ef447c68_11347056.png "屏幕截图")
-```
 
 Place model here：
 
-```
 resources
 ├── backbone
 │   ├── strided_inflated_efficientnet.ckpt
